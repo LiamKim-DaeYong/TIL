@@ -44,4 +44,3 @@ primitive 타입 변수는 스택 영역에 직접 값을 가진다. reference �
 
 - Native Method Stack Area: 자바 외 언어로 작성된 네이티브 코드를 위한 메모리 stack 이다.
 Java Native Interface를 통해 호출되는 C/C++등의 코드를 수행하기 위한 스택이다.
-- 
