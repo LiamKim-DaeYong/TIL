@@ -1,4 +1,4 @@
-#JVM(Java Virtual Machine)
+# JVM(Java Virtual Machine)
 - **자바 바이트 코드를 실행할 수 있는 주체**
 - 자바가 운영체제 종류, 플랫폼에 관계없이 독립적으로 실행 가능하도록 해준다.
 - GC(Garbage Collection)를 통해 메모리 관리를 자동으로 해준다.
