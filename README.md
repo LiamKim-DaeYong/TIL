@@ -7,6 +7,7 @@
 
 ## Http
  - [OSI 7계층](https://github.com/LiamKim-DaeYong/TIL/blob/master/http/OSI%207Layer.md)
+ - [REST API](https://github.com/LiamKim-DaeYong/TIL/blob/master/http/REST%20API.md)
 
 ## Database
  - [인덱스(index)란](https://github.com/LiamKim-DaeYong/TIL/blob/master/database/%EC%9D%B8%EB%8D%B1%EC%8A%A4(index)%EB%9E%80.md)
