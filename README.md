@@ -15,5 +15,8 @@
 ## OS
  - [컨텍스트 스위칭](https://github.com/LiamKim-DaeYong/TIL/blob/master/os/%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%8A%A4%EC%9C%84%EC%B9%AD.md)
 
+## Refactoring
+- [2022-07-04 Repository 리팩토링](https://github.com/LiamKim-DaeYong/TIL/blob/master/refactoring/2022-07-04.md)
+
 ## ETC
  - [JWT 토큰](https://github.com/LiamKim-DaeYong/TIL/blob/master/etc/JWT%20%ED%86%A0%ED%81%B0.md)
