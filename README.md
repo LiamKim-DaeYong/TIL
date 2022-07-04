@@ -7,9 +7,13 @@
 
 ## Http
  - [OSI 7계층](https://github.com/LiamKim-DaeYong/TIL/blob/master/http/OSI%207Layer.md)
+ - [REST API](https://github.com/LiamKim-DaeYong/TIL/blob/master/http/REST%20API.md)
 
 ## Database
  - [인덱스(index)란](https://github.com/LiamKim-DaeYong/TIL/blob/master/database/%EC%9D%B8%EB%8D%B1%EC%8A%A4(index)%EB%9E%80.md)
+
+## OS
+ - [컨텍스트 스위칭](https://github.com/LiamKim-DaeYong/TIL/blob/master/os/%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%8A%A4%EC%9C%84%EC%B9%AD.md)
 
 ## ETC
  - [JWT 토큰](https://github.com/LiamKim-DaeYong/TIL/blob/master/etc/JWT%20%ED%86%A0%ED%81%B0.md)
