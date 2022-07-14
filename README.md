@@ -6,6 +6,9 @@
  - [자바 Exception](https://github.com/LiamKim-DaeYong/TIL/blob/master/java/Java%20Excpetion.md)
  - [Enum 이란](https://github.com/LiamKim-DaeYong/TIL/blob/master/java/Enum.md)
 
+## JPA
+ - [findById와 getById](https://github.com/LiamKim-DaeYong/TIL/blob/master/jpa/findById%EC%99%80%20getById.md)
+
 ## Http
  - [OSI 7계층](https://github.com/LiamKim-DaeYong/TIL/blob/master/http/OSI%207Layer.md)
  - [REST API](https://github.com/LiamKim-DaeYong/TIL/blob/master/http/REST%20API.md)
