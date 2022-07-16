@@ -8,6 +8,7 @@
 
 ## JPA
  - [findById와 getById](https://github.com/LiamKim-DaeYong/TIL/blob/master/jpa/findById%EC%99%80%20getById.md)
+ - [상속 관계 매핑](https://github.com/LiamKim-DaeYong/TIL/blob/master/jpa/%EC%83%81%EC%86%8D%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91%EC%A0%84%EB%9E%B5.md)
 
 ## Http
  - [OSI 7계층](https://github.com/LiamKim-DaeYong/TIL/blob/master/http/OSI%207Layer.md)
