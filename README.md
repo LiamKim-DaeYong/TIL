@@ -6,6 +6,9 @@
  - [자바 Exception](https://github.com/LiamKim-DaeYong/TIL/blob/master/java/Java%20Excpetion.md)
  - [Enum 이란](https://github.com/LiamKim-DaeYong/TIL/blob/master/java/Enum.md)
 
+## Kotlin
+ - [변수와 자료형](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/01%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95.md)
+
 ## JPA
  - [findById와 getById](https://github.com/LiamKim-DaeYong/TIL/blob/master/jpa/findById%EC%99%80%20getById.md)
  - [상속 관계 매핑](https://github.com/LiamKim-DaeYong/TIL/blob/master/jpa/InheritanceStrategy.md)
