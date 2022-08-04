@@ -10,6 +10,7 @@
  - [변수와 자료형](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/01%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95.md)
  - [코틀린에서 Type을 다루는 방법](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/02%20%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C%20Type%EC%9D%84%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
  - [연산자](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/03%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+ - [조건문](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/04%20%EC%A1%B0%EA%B1%B4%EB%AC%B8.md)
  
 ## JPA
  - [findById와 getById](https://github.com/LiamKim-DaeYong/TIL/blob/master/jpa/findById%EC%99%80%20getById.md)
