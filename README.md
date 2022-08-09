@@ -14,6 +14,7 @@
  - [반복문](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/05%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
  - [예외처리](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/06%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
  - [함수](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/07%20%ED%95%A8%EC%88%98.md)
+ - [클래스](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/08%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
  
 ## JPA
  - [findById와 getById](https://github.com/LiamKim-DaeYong/TIL/blob/master/jpa/findById%EC%99%80%20getById.md)
