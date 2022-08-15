@@ -16,6 +16,7 @@
  - [함수](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/07%20%ED%95%A8%EC%88%98.md)
  - [클래스](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/08%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
  - [상속](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/09%20%EC%83%81%EC%86%8D.md)
+ - [접근제어](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/10%20%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4.md)
  
 ## JPA
  - [findById와 getById](https://github.com/LiamKim-DaeYong/TIL/blob/master/jpa/findById%EC%99%80%20getById.md)
