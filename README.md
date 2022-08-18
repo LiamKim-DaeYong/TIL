@@ -19,6 +19,7 @@
  - [접근제어](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/10%20%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4.md)
  - [object 키워드](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/11%20object%20%ED%82%A4%EC%9B%8C%EB%93%9C.md)
  - [중첩 클래스](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/12%20%EC%A4%91%EC%B2%A9%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+ - [다양한 클래스를 다루는 방법](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/13%20%EB%8B%A4%EC%96%91%ED%95%9C%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
  
 ## JPA
  - [findById와 getById](https://github.com/LiamKim-DaeYong/TIL/blob/master/jpa/findById%EC%99%80%20getById.md)
