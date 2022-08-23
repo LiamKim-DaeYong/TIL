@@ -22,6 +22,7 @@
  - [다양한 클래스를 다루는 방법](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/13%20%EB%8B%A4%EC%96%91%ED%95%9C%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
  - [배열과 컬렉션](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/14%20%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EC%BB%AC%EB%A0%89%EC%85%98.md)
  - [다양한 함수를 다루는 방법](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/15%20%EB%8B%A4%EC%96%91%ED%95%9C%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+ - [람다](https://github.com/LiamKim-DaeYong/TIL/blob/master/kotlin/16%20%EB%9E%8C%EB%8B%A4.md)
  
 ## JPA
  - [findById와 getById](https://github.com/LiamKim-DaeYong/TIL/blob/master/jpa/findById%EC%99%80%20getById.md)
